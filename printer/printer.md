@@ -1,10 +1,10 @@
 # ICS Printer Guide
 
 ## Sections:
-* [Preperation](https://github.com/cora-schallock/ta-guide/edit/main/printer/printer.md#preperation)
-* [Location](https://github.com/cora-schallock/ta-guide/edit/main/printer/printer.md#location)
-* [Printing](https://github.com/cora-schallock/ta-guide/edit/main/printer/printer.md#printing)
-* [Scanning](https://github.com/cora-schallock/ta-guide/edit/main/printer/printer.md#scanning)
+* [Preperation](https://github.com/cora-schallock/ta-guide/blob/main/printer/printer.md#preperation)
+* [Location](https://github.com/cora-schallock/ta-guide/blob/main/printer/printer.md#location)
+* [Printing](https://github.com/cora-schallock/ta-guide/blob/main/printer/printer.md#printing)
+* [Scanning](https://github.com/cora-schallock/ta-guide/blob/main/printer/printer.md#scanning)
 
 ## Preperation:
 Before you can use the ICS printer/ scanner you will need to complete the following following:
