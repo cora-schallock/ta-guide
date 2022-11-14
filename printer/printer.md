@@ -115,8 +115,7 @@ Note: It is a good idea to print a test copy. If the test copy looks satifactory
  8) Click "Store Files" and then click "Store to Memory Device"
  
    ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/24_scan_step_4.JPEG)
-   
-   ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/24_scan_step_5.JPEG)
+   ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/25_scan_step_5.JPEG)
  
  
   9) Look at the scanning tray on the top of the Rioch printer. Notice the small black latch. This is what detects paper in the scan try, and adjusts the height automatically. If this lever is not tripped, the scan tray will not rise and the scanner will not detect pages to scan.
