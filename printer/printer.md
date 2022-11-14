@@ -159,5 +159,4 @@ Note: It is a good idea to print a test copy. If the test copy looks satifactory
 
 17) Don't forget to bring your USB or the original tests when you leave!
 
-14) 
 
