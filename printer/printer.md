@@ -113,50 +113,51 @@ Note: It is a good idea to print a test copy. If the test copy looks satifactory
   
   
  8) Click "Store Files" and then click "Store to Memory Device"
- 9) 
+ 
    ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/24_scan_step_4.JPEG)
+   
    ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/24_scan_step_5.JPEG)
  
  
-  8) Look at the scanning tray on the top of the Rioch printer. Notice the small black latch. This is what detects paper in the scan try, and adjusts the height automatically. If this lever is not tripped, the scan tray will not rise and the scanner will not detect pages to scan.
+  9) Look at the scanning tray on the top of the Rioch printer. Notice the small black latch. This is what detects paper in the scan try, and adjusts the height automatically. If this lever is not tripped, the scan tray will not rise and the scanner will not detect pages to scan.
 
   ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/latch.JPEG)
 
 
- 9) Place your first batch of tests on the scanner. Try to limit the number of pages you scan at once to 75 or so. When the pages are in place and the tray has lifted, hit the start button to begin scanning.
+ 10) Place your first batch of tests on the scanner. Try to limit the number of pages you scan at once to 75 or so. When the pages are in place and the tray has lifted, hit the start button to begin scanning.
 
 ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/26_scanning.JPEG)
 
-10) Collect scanned tests from the bottom of the tray and set aside.
+11) Collect scanned tests from the bottom of the tray and set aside.
 
 ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/27_scanning.JPEG)
 
-11) Begin scanning your next Batch. Note when you hit start, the page count will not begin at 0. Repeat this step until all tests are scanned.
+12) Begin scanning your next Batch. Note when you hit start, the page count will not begin at 0. Repeat this step until all tests are scanned.
 
 ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/28_scanning.JPEG)
 
 ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/29_scanning.JPEG)
 
-12) **When done scanning, hit the enter key (the # symbol).**
+13) **When done scanning, hit the enter key (the # symbol).**
 
 ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/30_scanning.JPEG)
 
-13) The PDF will be written to the USB. For a large scan this may take a while, when complete the screen will be prompted with a message.
+14) The PDF will be written to the USB. For a large scan this may take a while, when complete the screen will be prompted with a message.
 
 ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/31_scanning.JPEG)
 
-14) Click the USB symbol at the bottom right.
+15) Click the USB symbol at the bottom right.
 
 ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/32_remove_usb.JPEG)
 
-15) Select remove device.
+16) Select remove device.
 
 ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/33_remove_usb.JPEG)
 
-16) When prompted remove your USB on the right hand side.
+17) When prompted remove your USB on the right hand side.
 
 ![alt text](https://github.com/cora-schallock/ta-guide/blob/main/printer/images/34_remove_usb_2.JPEG)
 
-17) Don't forget to bring your USB or the original tests when you leave!
+18) Don't forget to bring your USB or the original tests when you leave!
 
 
